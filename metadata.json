@@ -1,0 +1,6 @@
+{
+  "name": "FaceTrace AI - Missing-Person Case Management & Image Analysis",
+  "description": "Privacy-first missing-person case management, lawful reporting, sighting moderation, and technical image-quality analysis platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
